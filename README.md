@@ -2,10 +2,8 @@
 
 - 🌱 Estudante de Engenharia da Computação;
 - 👯 Procurando emprego na área de T.I
-- 💬 Ask me about ...
 - 📫 Contate-me no Email: douglasddsjr@gmail.com
-- 😄 Pronouns: ele
-- ⚡ Fun fact: Estudando Java/Javascript 
+- ⚡ Estudando Java/Javascript 
 
 ##
 
